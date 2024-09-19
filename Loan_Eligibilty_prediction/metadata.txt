@@ -1,0 +1,25 @@
+1. Loan_ID: Unique identifier for each loan application (categorical).
+   
+2. Gender: Gender of the applicant (categorical; values: Male, Female).
+
+3. Married: Marital status of the applicant (categorical; values: Yes, No).
+
+4. Dependents: Number of dependents of the applicant (categorical; values: 0, 1, 2, 3+).
+
+5. Education: Educational qualification of the applicant (categorical; values: Graduate, Not Graduate).
+
+6. Self_Employed: Employment status of the applicant (categorical; values: Yes, No).
+
+7. Applicant Income: Monthly income of the applicant (numerical).
+
+8. CoapplicantIncome: Monthly income of the co-applicant, if any (numerical).
+
+9. LoanAmount: Loan amount applied for by the applicant in thousands (numerical).
+
+10. Loan_Amount_Term: Duration of the loan in months (numerical).
+
+11. Credit_History: Whether the applicant has a credit history (categorical; values: 1 for Yes, 0 for No).
+
+12. Property_Area: Location of the property for which loan is applied (categorical; values: Urban, Semiurban, Rural).
+
+13. Loan_Status: Loan approval status (categorical; values: Y for Yes, N for No).
